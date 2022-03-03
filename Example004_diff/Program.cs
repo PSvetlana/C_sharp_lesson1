@@ -1,0 +1,5 @@
+﻿//Вывести сумму двух целых чисел
+double numberA = 9;
+double numberB = 2;
+double result = numberA / numberB;
+Console.WriteLine(result);
